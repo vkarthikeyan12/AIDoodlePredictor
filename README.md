@@ -1,0 +1,1 @@
+to make this program work we would need .npy files which can be downloaded from here ->  https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap;tab=objects?inv=1&invt=AbxfyA&prefix=&forceOnObjectsSortingFiltering=false
