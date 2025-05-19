@@ -21,32 +21,33 @@ You can install dependencies using:
 ```bash
 pip install -r requirements.txt
 (Note: Make sure to create a requirements.txt if you haven’t already.)
+```
 
-📁 Dataset
+# 📁 Dataset
 To make this program work, you'll need the .npy files from the Quick, Draw! dataset.
 
+```
 Download them from the following link:
 👉 Google Cloud Storage – Quick Draw Dataset
 
 After downloading, place the .npy files into a folder (e.g., data/) and ensure your scripts reference that directory correctly.
+```
 
-🚀 Getting Started
-Download the .npy files as described above.
+#🚀 Getting Started
+
+```Download the .npy files as described above.
 
 Train the model by running:
 
-bash
-Copy
-Edit
 python train.py
 Use the trained model with the doodle recognition script:
-
-bash
-Copy
-Edit
 python aiDoodle.py
-✍️ License
+```
+
+# ✍️ License
+```
 This project is provided for educational and experimental use.
 Feel free to use, modify, and explore!
+```
 
-Happy Doodling! 🎨🖌️
+# Happy Doodling! 🎨🖌️
