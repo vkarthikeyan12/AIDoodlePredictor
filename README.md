@@ -33,7 +33,7 @@ Download them from the following link:
 After downloading, place the .npy files into a folder (e.g., data/) and ensure your scripts reference that directory correctly.
 ```
 
-#🚀 Getting Started
+# 🚀 Getting Started
 
 ```Download the .npy files as described above.
 
